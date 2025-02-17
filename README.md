@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Can have allnighter too! 😄
 
-Hello! I'm a passionate second-year Computer Science Engineering student with a keen interest in web development and a solid foundation in various programming languages and technologies. I enjoy crafting engaging and intuitive frontends for websites, leveraging my skills in HTML, CSS, JavaScript, AngularJS, and Node.js to create captivating user experiences.
+Hello! I'm a passionate third-year Computer Science Engineering student with a keen interest in web development and a solid foundation in various programming languages and technologies. I enjoy crafting engaging and intuitive frontends for websites, leveraging my skills in HTML, CSS, JavaScript, AngularJS, and Node.js to create captivating user experiences.
 
 ## Skills and Expertise
 
