@@ -1,6 +1,6 @@
+<center>
 # 💫 About Me:
 🔭 I’m currently working on AI/ML, Data Science, Fintech<br>👯 I’m looking to collaborate on Generative AI, Deep Learning, Quant<br>🤝 I’m looking for help with CP<br>🌱 I’m currently learning Agentic AI, RAG, LLM, Data Analytics<br>💬 Ask me about AI <br>⚡ Fun fact: Can have all nighter too
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vismaaaay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vismay-kansara-2b4b85231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vismaytk@gmail.com) 
@@ -23,3 +23,4 @@
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) 
 -->
+</center>
