@@ -1,4 +1,5 @@
 <center>
+  
 # 💫 About Me:
 🔭 I’m currently working on AI/ML, Data Science, Fintech<br>👯 I’m looking to collaborate on Generative AI, Deep Learning, Quant<br>🤝 I’m looking for help with CP<br>🌱 I’m currently learning Agentic AI, RAG, LLM, Data Analytics<br>💬 Ask me about AI <br>⚡ Fun fact: Can have all nighter too
 
