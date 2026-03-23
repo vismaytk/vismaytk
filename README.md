@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vismaytk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 <!--![](https://nirzak-streak-stats.vercel.app/?user=vismaytk&theme=dark&hide_border=false)<br/><br/>-->
-[![GitHub Streak](https://github-readme-streak-stats-nu-snowy.vercel.app?user=vismaytk&theme=dark)](https://git.io/streak-stats)<br/><br/>
+![](https://github-readme-streak-stats-nu-snowy.vercel.app?user=vismaytk&theme=dark)]<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vismaytk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 ## 🏆 GitHub Trophies
